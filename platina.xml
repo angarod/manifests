@@ -6,4 +6,5 @@
 	<project name="PlatinaDevsSDM660/android_device_xiaomi_platina" path="device/xiaomi/platina" remote="github" revision="lineage-17.x" />
 	<project name="sdm660-platina/vendor_xiaomi_platina" path="vendor/xiaomi/platina" remote="gitlab" revision="master" />
 	<project name="FedorShatokhin2005/msm-4.4" path="kernel/xiaomi/platina" remote="github" revision="kernel.lnx.4.4.r38-rel" />
+    <project name="arter97/arm64-gcc.git" path="compiler" remote="github" revision="master" />
 </manifest>
